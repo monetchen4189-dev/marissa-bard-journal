@@ -44,3 +44,7 @@
 .mast-hero .hero-side{grid-column:3;grid-row:1;display:flex;flex-direction:column;align-items:stretch;gap:26px;min-width:0}.mast-hero .hero-side .hero-art{grid-column:auto;grid-row:auto;width:100%;display:flex;transform:none;row-gap:0}.mast-hero .hero-side .mast-wechat{position:relative;width:100%;margin:0;padding:8px;transform:none;z-index:5}
 @media(max-width:900px){.mast-hero .hero-side{grid-column:2;grid-row:1;gap:22px}.mast-hero .hero-side .hero-art{width:100%}}
 @media(max-width:600px){.mast-hero .hero-side{grid-column:2;grid-row:1;gap:14px}.mast-hero .hero-side .hero-art{display:flex}.mast-hero .hero-side .mast-wechat{grid-column:auto;width:100%;margin:0;padding:10px 8px}.mast-hero .hero-side .mast-wechat h2{font-size:11px}.mast-hero .hero-side .mast-wechat .wechat-button{font-size:10px;min-height:30px;padding:5px}}
+
+/* Make the narrow side-card readable: title and action use separate rows. */
+.mast-hero .hero-side .mast-wechat{display:flex;flex-direction:column;align-items:stretch;gap:8px;padding:10px 12px}.mast-hero .hero-side .mast-wechat h2{font-size:14px;line-height:1.35;white-space:normal;text-align:center}.mast-hero .hero-side .mast-wechat .wechat-button{width:100%;justify-content:center;margin:0;font-size:12px;min-height:34px;padding:6px 8px}
+@media(max-width:600px){.mast-hero .hero-side .mast-wechat h2{font-size:13px}.mast-hero .hero-side .mast-wechat .wechat-button{font-size:11px}}
