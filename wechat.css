@@ -39,3 +39,8 @@
 /* Add a guaranteed visual gap between artwork and follow card. */
 .hero-art{transform:none;row-gap:24px;overflow:visible}.hero-art>img{flex:none;position:relative;z-index:1}.hero-art .mast-wechat{flex:none;position:relative;z-index:5;margin:0;padding:8px;width:100%;transform:none;box-shadow:0 8px 18px #06101f40}
 @media(max-width:600px){.hero-art{row-gap:14px}.hero-art .mast-wechat{margin:0}}
+
+/* Use a real side column: artwork and follow card are separate siblings with a full gap. */
+.mast-hero .hero-side{grid-column:3;grid-row:1;display:flex;flex-direction:column;align-items:stretch;gap:26px;min-width:0}.mast-hero .hero-side .hero-art{grid-column:auto;grid-row:auto;width:100%;display:flex;transform:none;row-gap:0}.mast-hero .hero-side .mast-wechat{position:relative;width:100%;margin:0;padding:8px;transform:none;z-index:5}
+@media(max-width:900px){.mast-hero .hero-side{grid-column:2;grid-row:1;gap:22px}.mast-hero .hero-side .hero-art{width:100%}}
+@media(max-width:600px){.mast-hero .hero-side{grid-column:2;grid-row:1;gap:14px}.mast-hero .hero-side .hero-art{display:flex}.mast-hero .hero-side .mast-wechat{grid-column:auto;width:100%;margin:0;padding:10px 8px}.mast-hero .hero-side .mast-wechat h2{font-size:11px}.mast-hero .hero-side .mast-wechat .wechat-button{font-size:10px;min-height:30px;padding:5px}}
