@@ -19,3 +19,7 @@
 @media(max-width:900px){.masthead .mast-hero{gap:20px;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr) 120px}.masthead .latest-strip{padding-left:14px}.library .library-row{grid-template-columns:minmax(0,1fr) 180px}.library .story-card h3{font-size:22px}}
 @media(max-width:760px){.masthead .mast-hero{grid-template-columns:minmax(0,1fr) 120px;gap:12px}.masthead .latest-strip{padding:8px 0 0;display:grid;grid-template-columns:1fr;gap:5px}.masthead .latest-strip a{font-size:12px;line-height:1.5}}
 @media(max-width:600px){.library .library-row{grid-template-columns:minmax(0,1fr) 112px;gap:16px;padding:20px 0}.library .story-card h3{font-size:19px}.library .story-card .cover{aspect-ratio:1;margin-top:22px}.pagination{gap:6px}}
+/* Keep thumbnails within the reading area instead of at the far edge on wide screens. */
+@media(min-width:901px){
+ .library .library-row{padding-right:clamp(0px,calc((100vw - 1000px) * .36),170px);column-gap:24px}
+}
