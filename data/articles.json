@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "paperclip-agents",
+    "title": "黑客与回形针：从AI末日思想实验，到开始越界的Agent们",
+    "date": "2026-09-09",
+    "source": "https://mp.weixin.qq.com/s/QZ7XqEgnIu83XqzJogsI7w",
+    "categories": [
+      "AI 与科技"
+    ],
+    "excerpt": "在 AI 圈子里，回形针早已不只是回形针。它背后，是一个流传了二十多年的末日思想实验。",
+    "cover": "paperclip-agents.png"
+  },
+  {
+    "slug": "feifei-li-north-star",
+    "title": "从 ImageNet 到世界模型：李飞飞和她永远无法抵达的北极星",
+    "date": "2026-09-04",
+    "source": "https://mp.weixin.qq.com/s/TeXrRRQraTwuBUnfeoCg9w",
+    "categories": [
+      "AI 与科技",
+      "人物访谈"
+    ],
+    "excerpt": "如果机器已经学会了“看见”，下一步呢？从一场访谈和一本自传，回望李飞飞的来路，也看看她正在追寻的下一个问题。",
+    "cover": "page-7-0.png"
+  },
+  {
+    "slug": "two-generations-of-programmers",
+    "title": "当 Matt Pocock 遇上 Uncle Bob：两代程序员聊 AI 编程",
+    "date": "2026-08-28",
+    "source": "https://mp.weixin.qq.com/s/ARlc0R7qXJY6NjOZ-6pRPw",
+    "categories": [
+      "编程",
+      "AI 与科技",
+      "人物访谈"
+    ],
+    "excerpt": "一个写了五十多年代码，一个 2018 年才进入软件行业。两代程序员谈 AI 编程，最后又回到测试、模块边界和复杂度。",
+    "cover": "images/two-generations-of-programmers-1.jpg"
+  },
+  {
+    "slug": "odyssey-bards",
+    "title": "从《奥德赛》说起，聊聊“吟游诗人”",
+    "date": "2026-08-21",
+    "source": "https://mp.weixin.qq.com/s/qnmjpLPGX2ytLkURLjtT6A",
+    "categories": [
+      "科幻与人文"
+    ],
+    "excerpt": "在没有文字的年代，吟游诗人用歌声抵抗遗忘。如今，有了数字化技术，我们不太怕遗忘，怕的是被淹没。",
+    "cover": "odyssey-nolan.png"
+  },
+  {
+    "slug": "musk-economist-part-two",
+    "title": "马斯克对话《经济学人》（下）｜关于权力、政治和欧洲的激烈辩论",
+    "date": "2026-08-03",
+    "source": "https://mp.weixin.qq.com/s/XKhGrAVqkJN6ZV1GTr3Dww",
+    "categories": [
+      "人物访谈"
+    ],
+    "excerpt": "话题从 AI 和未来拉回权力、政治与欧洲。尖锐的追问，让一场访谈逐渐变成了辩论。",
+    "cover": "images/musk-economist-part-two-1.jpg"
+  },
+  {
+    "slug": "musk-economist-part-one",
+    "title": "马斯克对话《经济学人》（上）｜2036年的世界，硅谷的恩怨，Kimi和中国AI等",
+    "date": "2026-07-30",
+    "source": "https://mp.weixin.qq.com/s/2LZCu8fPhl1a6uHPbjX0Kw",
+    "categories": [
+      "AI 与科技",
+      "人物访谈"
+    ],
+    "excerpt": "2036 年的世界会是什么样？从极度富足的愿景，聊到硅谷的恩怨、Kimi 与中国 AI。",
+    "cover": "images/musk-economist-part-one-1.jpg"
+  },
+  {
+    "slug": "robots-in-science-fiction",
+    "title": "科幻里的机器人们，究竟想要什么？｜从《人工智能》说起",
+    "date": "2026-07-09",
+    "source": "https://mp.weixin.qq.com/s/05rvqVJw0zwYMVg-N9Uqww",
+    "categories": [
+      "科幻与人文"
+    ],
+    "excerpt": "从《人工智能》说起，回望科幻里的机器人：被爱、自由、尊严，还是接管世界？它们想要的越来越像人类。",
+    "cover": "images/robots-in-science-fiction-1.jpg"
+  },
+  {
+    "slug": "dario-ai-safety",
+    "title": "Anthropic 创始人最新访谈｜不是奥本海默，而是西拉德：Dario Amodei 的 AI 安全叙事",
+    "date": "2026-07-02",
+    "source": "https://mp.weixin.qq.com/s/3iJWlO-gV216aDqffVBklw",
+    "categories": [
+      "AI 与科技",
+      "人物访谈"
+    ],
+    "excerpt": "不是奥本海默，而是西拉德。沿着 Dario Amodei 的访谈，理解他关于 AI 安全、责任和时间尺度的叙事。",
+    "cover": "images/dario-ai-safety-1.jpg"
+  },
+  {
+    "slug": "hassabis-thinking-game",
+    "title": "纪录片《思维游戏》：从国际象棋神童到诺贝尔奖 哈萨比斯的思维轨迹｜DeepMind的AI之路",
+    "date": "2026-06-11",
+    "source": "https://mp.weixin.qq.com/s/Y7yt2OqP9nZzlRGWn7YLgw",
+    "categories": [
+      "AI 与科技",
+      "人物访谈"
+    ],
+    "excerpt": "从十二岁棋盘上的败局，到 AlphaGo 与 AlphaFold。沿着纪录片《思维游戏》，回顾哈萨比斯追寻智能的来路。",
+    "cover": "images/hassabis-thinking-game-1.jpg"
+  }
+]
